@@ -1,0 +1,60 @@
+15:26:16.375 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest TestCase ****** 
+15:39:14.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\vishakha\seleniumwebdriver\OpencartV121\grouping.xml
+
+15:39:18.685 [main] INFO  testCases.LoginTest - ***** Starting Login TaseCase  **** 
+15:39:39.922 [main] INFO  testCases.AccountRegistrationTest - *****Starting AccountRegistrationTest TestCase ****** 
+15:39:40.075 [main] INFO  testCases.AccountRegistrationTest - Clicked on MyAccount Link
+15:39:40.700 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+15:39:40.702 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+15:39:42.620 [main] INFO  testCases.AccountRegistrationTest - Validating expected message..
+15:39:42.677 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest TestCase ****** 
+15:40:27.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\vishakha\seleniumwebdriver\OpencartV121\grouping.xml
+
+15:40:32.805 [main] INFO  testCases.LoginTest - ***** Starting Login TaseCase  **** 
+15:40:53.942 [main] INFO  testCases.AccountRegistrationTest - *****Starting AccountRegistrationTest TestCase ****** 
+15:40:54.128 [main] INFO  testCases.AccountRegistrationTest - Clicked on MyAccount Link
+15:40:54.703 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+15:40:54.711 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+15:40:57.906 [main] INFO  testCases.AccountRegistrationTest - Validating expected message..
+15:40:57.988 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest TestCase ****** 
+18:16:35.199 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\vishakha\seleniumwebdriver\OpencartV121\master.xml
+
+18:38:45.639 [main] INFO  testCases.LoginTest - ***** Starting Login TaseCase  **** 
+18:39:06.457 [main] INFO  testCases.AccountRegistrationTest - *****Starting AccountRegistrationTest TestCase ****** 
+18:39:06.636 [main] INFO  testCases.AccountRegistrationTest - Clicked on MyAccount Link
+18:39:07.126 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+18:39:07.145 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:39:09.120 [main] INFO  testCases.AccountRegistrationTest - Validating expected message..
+18:39:09.175 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest TestCase ****** 
+18:40:00.548 [main] INFO  testCases.AccountRegistrationTest - *****Starting AccountRegistrationTest TestCase ****** 
+18:40:00.738 [main] INFO  testCases.AccountRegistrationTest - Clicked on MyAccount Link
+18:40:01.244 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+18:40:01.245 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+18:40:09.028 [main] INFO  testCases.AccountRegistrationTest - Validating expected message..
+18:40:09.093 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest TestCase ****** 
+18:40:12.311 [main] INFO  testCases.LoginTest - ***** Starting Login TaseCase  **** 
+18:55:34.738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\vishakha\seleniumwebdriver\OpencartV121\master.xml
+
+19:00:47.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\vishakha\seleniumwebdriver\OpencartV121\master.xml
+
+19:53:17.688 [main] INFO  testCases.LoginTest - ***** Starting Login TaseCase  **** 
+19:53:41.556 [main] INFO  testCases.AccountRegistrationTest - *****Starting AccountRegistrationTest TestCase ****** 
+19:53:41.773 [main] INFO  testCases.AccountRegistrationTest - Clicked on MyAccount Link
+19:53:42.556 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+19:53:42.563 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+19:53:45.170 [main] INFO  testCases.AccountRegistrationTest - Validating expected message..
+19:53:45.239 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest TestCase ****** 
+22:59:28.375 [main] INFO  testCases.LoginTest - ***** Starting Login TaseCase  **** 
+22:59:51.484 [main] INFO  testCases.AccountRegistrationTest - *****Starting AccountRegistrationTest TestCase ****** 
+22:59:51.678 [main] INFO  testCases.AccountRegistrationTest - Clicked on MyAccount Link
+22:59:52.373 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+22:59:52.377 [main] INFO  testCases.AccountRegistrationTest - Providing customer details...
+22:59:54.659 [main] INFO  testCases.AccountRegistrationTest - Validating expected message..
+22:59:54.710 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest TestCase ****** 
+15:32:57.233 [main] INFO  testCases.LoginTest - ***** Starting Login TaseCase  **** 
+15:33:20.337 [main] INFO  testCases.AccountRegistrationTest - *****Starting AccountRegistrationTest TestCase ****** 
